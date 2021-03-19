@@ -296,7 +296,7 @@ function addArtist(array){
       "nationality": "Sicilian, Irish, Ukranian",
       "bio": "Former US Army Paratrooper and all-around awesome person"
     ]
-    artists.push(newArtist);
+    addArtists.push(newArtist);
   }
 
   
